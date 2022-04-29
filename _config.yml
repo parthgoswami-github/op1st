@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Operate Fitst
-author: PnT Experience Team
+title: The Operate First Mindset
+author: Operate First
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
